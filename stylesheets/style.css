@@ -7,12 +7,6 @@ html {
 body {
 	color: gray;
 
-ul {
-	display: inline-block;
-
-
-	background-color: #B9ABA2;
-}
 
 header {
 	margin-top: 6%;
@@ -38,6 +32,7 @@ nav {
   background-color: #B29B43;
 
 }
+
 
 li {
   display: inline-block;
