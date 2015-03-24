@@ -1,4 +1,16 @@
 html {
+
+	text-align: center;
+
+}
+
+body {
+	color: gray;
+
+ul {
+	display: inline-block;
+
+
 	background-color: #B9ABA2;
 }
 
@@ -63,5 +75,9 @@ form {
 
 h3 {
 	text-align: center;
+
 }
+
+
+
 
