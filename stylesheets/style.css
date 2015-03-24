@@ -7,17 +7,10 @@ html {
 body {
 	color: gray;
 
-ul {
-	display: inline-block;
-
-
-	background-color: #B9ABA2;
-}
 
 header {
 	margin-top: 6%;
 }
-
 nav { 
 
   width: 100%;
@@ -27,6 +20,16 @@ nav {
   left: 0;
   top: 0;
   background-color: #B29B43;
+
+}
+
+#container {
+	overflow: auto;
+}
+
+#banner {
+	margin-top: 7%;
+	float: top;
 }
 
 li {
@@ -44,11 +47,6 @@ img {
 	margin-left: 9.5%;
 }
 
-
-form {
-	text-align: center;
-}
-
 .content {
   width: 70%;
   border: 5px solid black;
@@ -56,12 +54,14 @@ form {
   margin-top: 50px;
   margin-left: 250px;
 }
+
 .clearspacer {
   height: 15px;
   width: 20%;
+  float: top;
 }
 
-h3 {
-	text-align: center;
 
-}
+
+
+
