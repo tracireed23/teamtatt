@@ -11,6 +11,18 @@ body {
 header {
 	margin-top: 6%;
 }
+nav { 
+
+  width: 100%;
+  height: 10%;
+  border: 1px solid black;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: #B29B43;
+
+}
+
 
 #container {
 	overflow: auto;
@@ -19,18 +31,6 @@ header {
 #banner {
 	margin-top: 7%;
 	float: top;
-}
-
-nav { 
-
- width: 100%;
-  height: 10%;
-  border: 1px solid black;
-  position: fixed;
-  left: 0;
-  top: 0;
-  background-color: #B29B43;
-
 }
 
 
@@ -49,11 +49,6 @@ img {
 	margin-left: 9.5%;
 }
 
-
-form {
-	text-align: center;
-}
-
 .content {
   width: 70%;
   border: 5px solid black;
@@ -68,10 +63,6 @@ form {
   float: top;
 }
 
-h3 {
-	text-align: center;
-
-}
 
 
 
