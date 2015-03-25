@@ -3,8 +3,6 @@ html {
 	font-family: fantasy;
 }
 
-
-
 nav { 
 
   background-color: #A23F34;
@@ -29,7 +27,6 @@ ul {
 }
 
 
-
 img {
 	height: 350px;
 	width: 80%;
@@ -37,8 +34,6 @@ img {
 	margin-top: 13%;
 	
 }
-
-
 
 .content {
 	border: 3px solid black;
@@ -48,5 +43,4 @@ img {
 	margin-top: 13%; 
 	background-color: #B9ABA2;
 }
-
 
