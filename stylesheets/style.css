@@ -3,9 +3,13 @@ html {
 	font-family: fantasy;
 }
 
+a {
+	color: #615A55;
+}
+
 nav { 
 
-  background-color: #A23F34;
+  background-color: #B29B43;
   border: 2px solid black;
   position: fixed;
   width: 100%;
